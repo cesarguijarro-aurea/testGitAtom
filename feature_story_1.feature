@@ -1,5 +1,11 @@
 Feature: Creating/editing a devspace from docker image is disallowed in case it conflicts with the name of an already existing devspace
-
+any text just for test
+any text just for test
+any text just for test
+any text just for test
+any text just for test
+any text just for test
+any text just for test 
   Background:
     Given user is logged in to DevSpaces
     And user account contains one devspace created from docker image
